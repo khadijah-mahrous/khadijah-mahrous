@@ -15,4 +15,4 @@ Computer Science Student at Yanbu Industrial College. Passionate about building 
 ---
 
 ###  Connect
-[LinkedIn](https://www.linkedin.com/in/khadijah-mahrous) | [Email](khadijahmm77@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/khadijah-mahrous) | [Email](mailto:khadijahmm77@gmail.com)
