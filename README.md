@@ -1,3 +1,4 @@
+![Banner](Profile Banner.png)
 # Khadijah Mahrous
 
 Computer Science Student at Yanbu Industrial College. Passionate about building functional software and full-stack web applications.
